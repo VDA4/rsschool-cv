@@ -16,7 +16,6 @@ I am 32 years old, I work as a ATC for 10 years. I decided to begin learning cod
 
 ## Code example
 This code does not execute properly. Try to figure out why.
-
 ```
 function multiply(a, b){
    a * b
