@@ -1,8 +1,8 @@
 # Dmitry Varenik
 
 ## Contacts
-### **Location** Brest, Belarus
-### **Phone** +375297214720
+### **Location:** Brest, Belarus
+### **Phone:** +375297214720
 ### **E-mail:** stille.dim@mail.com
 ### **GitHub:** VDA4
 
